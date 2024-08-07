@@ -26,7 +26,7 @@ This section focuses on basic image transformations and color space conversions.
 - Color indexing with K-means classifier
 - Color space transformations (RGB, HSV, YCrCb, LAB, XYZ)
 
-[Read more about Section 1](./Section%201/README.md)
+[Read more about Section 1](./Section%201/readme.md)
 
 ## Section 2: Image Cartoonization and Noise Analysis
 
@@ -36,7 +36,7 @@ This section explores image cartoonization techniques and analyzes the effects o
 - Noise analysis using MSE and PSNR metrics
 - Effects of noise intensity and filter degree on image quality
 
-[Read more about Section 2](./Section%202//README.md)
+[Read more about Section 2](./Section%202//readme.md)
 
 ## Section 3: Image Processing and Fingerprint Recognition
 
@@ -47,7 +47,7 @@ This section implements Butterworth filters and develops a basic fingerprint rec
 - Edge extraction in fingerprint images
 - Fingerprint classification using rotation matrices
 
-[Read more about Section 3](./Section%203//README.md)
+[Read more about Section 3](./Section%203//readme.md)
 
 ## Section 4: Edge Detection and Texture Synthesis
 
@@ -58,7 +58,7 @@ This section focuses on various edge detection techniques and texture synthesis 
 - Image binarization and hole filling
 - Texture synthesis algorithms (Random, Best Random, Min Cut)
 
-[Read more about Section 4](./Section%204//README.md)
+[Read more about Section 4](./Section%204//readme.md)
 
 ## Section 5: JPEG Image Compression Implementation
 
@@ -70,7 +70,7 @@ This section implements the complete procedure for converting an image into JPEG
 - Run-length encoding and decoding
 - Compression using zlib
 
-[Read more about Section 5](./Section%205//README.md)
+[Read more about Section 5](./Section%205//readme.md)
 
 ## Getting Started
 
