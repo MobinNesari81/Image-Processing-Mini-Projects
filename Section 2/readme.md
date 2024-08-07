@@ -47,6 +47,7 @@ def blurry_cartoonize_image(image):
 In this task, we analyze the effect of different noise intensities and filter degrees on image quality using two metrics: Mean Squared Error (MSE) and Peak Signal-to-Noise Ratio (PSNR).
 
 ### Test Images
+
 - Lenna
 - Cameraman
 - Baboon
